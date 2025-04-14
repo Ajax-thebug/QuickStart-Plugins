@@ -4,7 +4,7 @@
  * Plugin URI: https://github.com/Ajax-thebug/QuickStart-Plugins
  * Description: Automatically install your favorite WordPress plugins with a single click.
  * Version: 1.0.0
- * Author: Your Name
+ * Author: Bhupendra Jaiswal
  * Author URI: https://thebigsparrow.com
  * License: GPL-2.0+
  * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
